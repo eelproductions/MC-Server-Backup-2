@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2021-01-07 05:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-01-03 21:28:29 +0000"
@@ -215,9 +221,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-01-08 01:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-05 21:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-10 01:15:13 +0000"
     },
     "done": true
   },
@@ -236,6 +254,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-01-03 22:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-01-09 04:20:35 +0000"
     },
     "done": true
   },
@@ -308,6 +332,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-01-03 22:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-10 01:15:13 +0000"
     },
     "done": true
   },
@@ -407,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2021-01-07 05:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-01-03 21:35:46 +0000"
@@ -422,6 +458,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-01-04 03:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-01-07 05:53:26 +0000"
     },
     "done": true
   },
@@ -464,6 +506,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-01-03 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
     },
     "done": true
   },
@@ -531,6 +579,7 @@
       "minecraft:spider": "2021-01-03 22:11:34 +0000",
       "minecraft:creeper": "2021-01-03 23:46:55 +0000",
       "minecraft:phantom": "2021-01-06 06:17:14 +0000",
+      "minecraft:zombified_piglin": "2021-01-08 01:19:44 +0000",
       "minecraft:wither_skeleton": "2021-01-03 21:58:21 +0000",
       "minecraft:husk": "2021-01-04 06:14:12 +0000",
       "minecraft:cave_spider": "2021-01-04 03:02:39 +0000",
@@ -545,6 +594,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2021-01-04 04:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
     },
     "done": true
   },
@@ -614,6 +669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-03 21:37:34 +0000"
@@ -629,6 +690,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-01-03 21:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
     },
     "done": true
   },
@@ -788,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-01-03 22:02:15 +0000"
@@ -866,6 +939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-01-03 22:11:38 +0000"
@@ -881,6 +960,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2021-01-03 21:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
     },
     "done": true
   },
@@ -1022,6 +1107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-01-09 06:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-01-03 06:36:17 +0000"
@@ -1121,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-03 23:00:04 +0000"
@@ -1193,6 +1290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2021-01-03 22:45:38 +0000"
@@ -1220,6 +1323,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-01-03 21:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2021-01-09 07:54:57 +0000"
     },
     "done": true
   },
@@ -1325,6 +1434,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-01-03 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
     },
     "done": true
   },
@@ -1508,9 +1623,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-01-07 06:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2021-01-03 22:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-08 00:58:31 +0000"
     },
     "done": true
   },
@@ -1550,6 +1677,7 @@
       "bread": "2021-01-03 21:13:16 +0000",
       "golden_apple": "2021-01-04 04:48:39 +0000",
       "rotten_flesh": "2021-01-03 21:41:04 +0000",
+      "salmon": "2021-01-06 18:28:07 +0000",
       "golden_carrot": "2021-01-04 03:35:07 +0000",
       "cooked_chicken": "2021-01-03 21:37:14 +0000",
       "cooked_salmon": "2021-01-04 06:22:57 +0000"
@@ -1646,6 +1774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-10 01:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2021-01-03 22:02:15 +0000"
@@ -1679,6 +1813,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-01-03 22:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-10 01:15:13 +0000"
     },
     "done": true
   },
@@ -1727,6 +1867,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2021-01-04 05:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2021-01-07 05:53:07 +0000"
     },
     "done": true
   },
@@ -1781,6 +1927,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2021-01-04 04:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-01-07 06:03:08 +0000"
     },
     "done": true
   },
@@ -2018,6 +2170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-01-09 06:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-01-03 23:00:04 +0000"
@@ -2102,6 +2260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2021-01-07 05:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-01-03 21:28:29 +0000"
@@ -2117,6 +2281,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2021-01-04 00:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-10 01:15:13 +0000"
     },
     "done": true
   },
@@ -2177,6 +2347,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-01-04 00:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2021-01-09 07:54:57 +0000"
     },
     "done": true
   },
@@ -2264,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-10 01:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-03 23:00:04 +0000"
@@ -2309,6 +2491,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-01-04 05:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-01-09 06:14:10 +0000"
     },
     "done": true
   },
@@ -2405,6 +2593,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-01-04 02:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-01-09 06:46:17 +0000"
     },
     "done": true
   },
@@ -2657,6 +2851,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-01-03 21:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-10 01:15:13 +0000"
     },
     "done": true
   },
