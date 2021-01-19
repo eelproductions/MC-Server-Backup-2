@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2021-01-15 06:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2021-01-05 07:46:18 +0000"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2021-01-15 07:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-01-05 01:14:06 +0000"
@@ -386,6 +398,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-01-05 00:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-16 01:11:31 +0000"
     },
     "done": true
   },
@@ -716,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-01-15 06:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_acacia_wood": {
     "criteria": {
       "has_log": "2021-01-05 00:55:00 +0000"
@@ -773,6 +797,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-05 02:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-01-15 06:14:36 +0000"
     },
     "done": true
   },
@@ -1163,6 +1193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-16 01:11:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-01-05 00:46:58 +0000"
@@ -1178,7 +1214,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-01-05 02:38:25 +0000",
-      "minecraft:nether_wastes": "2021-01-05 02:38:09 +0000"
+      "minecraft:nether_wastes": "2021-01-05 02:38:09 +0000",
+      "minecraft:basalt_deltas": "2021-01-15 06:25:44 +0000"
     },
     "done": false
   },
@@ -1242,6 +1279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-01-15 07:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-01-05 00:32:27 +0000"
@@ -1296,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-16 01:11:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-01-05 01:13:52 +0000"
@@ -1347,6 +1396,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2021-01-05 00:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-16 01:11:31 +0000"
     },
     "done": true
   },
@@ -1461,7 +1516,8 @@
       "cooked_cod": "2021-01-06 06:31:30 +0000",
       "bread": "2021-01-05 05:38:32 +0000",
       "rotten_flesh": "2021-01-05 00:33:27 +0000",
-      "cooked_chicken": "2021-01-06 00:59:35 +0000"
+      "cooked_chicken": "2021-01-06 00:59:35 +0000",
+      "carrot": "2021-01-15 07:20:15 +0000"
     },
     "done": false
   },
@@ -2036,6 +2092,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-01-15 06:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-01-05 05:49:48 +0000"
@@ -2453,6 +2515,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-01-06 06:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-01-16 01:11:31 +0000"
     },
     "done": true
   },
