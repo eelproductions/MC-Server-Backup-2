@@ -1,66 +1,65 @@
-[00:04:43] [Server thread/INFO]: [eelproductions: Set own game mode to Spectator Mode]
-[00:05:08] [Server thread/INFO]: [eelproductions: Set own game mode to Survival Mode]
-[00:13:45] [Server thread/INFO]: eelproductions has made the advancement [What a Deal!]
-[00:17:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=40, y=43, z=36} fx{x=41, y=43, z=36}
-[00:26:51] [User Authenticator #150/INFO]: UUID of player 1153jay is c64269cc-248a-48ea-954d-acb73f97295b
-[00:26:51] [Server thread/INFO]: 1153jay[/67.169.172.23:63721] logged in with entity id 1428256 at (1147.4475334993429, 57.0, 573.3000000119209)
-[00:26:51] [Server thread/INFO]: 1153jay joined the game
-[00:26:54] [Server thread/INFO]: <eelproductions> hi!!!
-[00:27:03] [Server thread/INFO]: <1153jay> yoooooo
-[00:30:51] [Server thread/INFO]: <eelproductions> i c u
-[00:31:00] [Server thread/INFO]: <1153jay> stalker
-[00:37:46] [Server thread/INFO]: <eelproductions> u going up the waterfall
-[00:38:00] [Server thread/INFO]: <1153jay> aha yeah i wanna check on the dirt kingdom
-[00:42:05] [Server thread/INFO]: <eelproductions> hi
-[00:42:07] [Server thread/INFO]: <1153jay> hallo
-[00:42:24] [Server thread/INFO]: <1153jay> this is a very beautiful bridge
-[00:42:27] [Server thread/INFO]: <eelproductions> thx
-[00:46:58] [Server thread/INFO]: <eelproductions> woah
-[00:47:03] [Server thread/INFO]: <1153jay> merry christmas
-[00:47:05] [Server thread/INFO]: <eelproductions> how'd u get it
-[00:47:14] [Server thread/INFO]: <eelproductions> woahhhhhhhhh
-[00:47:15] [Server thread/INFO]: <1153jay> w this majic
-[00:47:23] [Server thread/INFO]: <eelproductions> nice
-[00:47:26] [Server thread/INFO]: <1153jay> thx babe
-[00:47:33] [Server thread/INFO]: <1153jay> i almost died to get that haha
-[00:47:35] [Server thread/INFO]: <eelproductions> ima zombie
-[00:47:44] [Server thread/INFO]: <eelproductions> ow
-[00:47:48] [Server thread/INFO]: <1153jay> oop
-[00:52:43] [Server thread/INFO]: <1153jay> aight imma head out, cya
-[00:52:45] [Server thread/INFO]: <eelproductions> cya
-[00:52:47] [Server thread/INFO]: 1153jay lost connection: Disconnected
-[00:52:47] [Server thread/INFO]: 1153jay left the game
-[01:05:50] [Server thread/INFO]: eelproductions lost connection: Disconnected
-[01:05:50] [Server thread/INFO]: eelproductions left the game
-[04:12:20] [User Authenticator #151/INFO]: UUID of player 1153jay is c64269cc-248a-48ea-954d-acb73f97295b
-[04:12:20] [Server thread/INFO]: 1153jay[/67.169.172.23:64531] logged in with entity id 1438354 at (1141.96263008966, 64.0, 572.1909399074241)
-[04:12:20] [Server thread/INFO]: 1153jay joined the game
-[05:15:59] [Server thread/INFO]: 1153jay lost connection: Disconnected
-[05:15:59] [Server thread/INFO]: 1153jay left the game
-[06:12:02] [User Authenticator #152/INFO]: UUID of player 1153jay is c64269cc-248a-48ea-954d-acb73f97295b
-[06:12:02] [Server thread/INFO]: 1153jay[/67.169.172.23:65162] logged in with entity id 1446868 at (772.549776014032, 12.0, 860.6585285707392)
-[06:12:02] [Server thread/INFO]: 1153jay joined the game
-[06:15:02] [User Authenticator #153/INFO]: UUID of player eelproductions is 64711451-e51b-46e7-8489-926fa3755009
-[06:15:02] [Server thread/INFO]: eelproductions[/76.231.25.94:50058] logged in with entity id 1447787 at (321.67129594991485, 80.5, 47.23840852211818)
-[06:15:02] [Server thread/INFO]: eelproductions joined the game
-[06:15:06] [Server thread/INFO]: <1153jay> yo
-[06:15:22] [Server thread/INFO]: <eelproductions> yo, i think im going to stop the server in a few minutes to back it up
-[06:15:39] [Server thread/INFO]: <1153jay> o cool, just lmk when u do that
-[06:15:56] [Server thread/INFO]: <eelproductions> yeah sure
-[06:18:15] [Server thread/INFO]: <eelproductions> ok ima going to stop it
-[06:18:20] [Server thread/INFO]: <1153jay> aight
-[06:18:22] [Server thread/INFO]: 1153jay lost connection: Disconnected
-[06:18:22] [Server thread/INFO]: 1153jay left the game
-[06:18:25] [Server thread/INFO]: [eelproductions: Stopping the server]
-[06:18:25] [Server thread/INFO]: Stopping server
-[06:18:25] [Server thread/INFO]: Saving players
-[06:18:25] [Server thread/INFO]: Saving worlds
-[06:18:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Homieville]'/minecraft:overworld
-[06:18:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (Homieville): All chunks are saved
-[06:18:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Homieville]'/minecraft:the_nether
-[06:18:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:18:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Homieville]'/minecraft:the_end
-[06:18:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:18:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (Homieville): All chunks are saved
-[06:18:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:18:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:45:44] [User Authenticator #128/INFO]: UUID of player 1153jay is c64269cc-248a-48ea-954d-acb73f97295b
+[04:45:44] [Server thread/INFO]: 1153jay[/67.169.172.23:60710] logged in with entity id 1074140 at (1155.699999988079, 56.0, 575.7604424956777)
+[04:45:44] [Server thread/INFO]: 1153jay joined the game
+[05:05:31] [User Authenticator #129/INFO]: UUID of player eelproductions is 64711451-e51b-46e7-8489-926fa3755009
+[05:05:32] [Server thread/INFO]: eelproductions[/76.231.25.94:52922] logged in with entity id 1077754 at (319.8610980641284, 78.0, 49.497437258247594)
+[05:05:32] [Server thread/INFO]: eelproductions joined the game
+[05:06:22] [User Authenticator #130/INFO]: UUID of player AGWright is c621a599-deae-4527-b2a6-2ded8197c4f1
+[05:06:23] [Server thread/INFO]: AGWright[/99.35.23.239:65251] logged in with entity id 1078132 at (88.7418722577038, 64.0, -754.6311111944792)
+[05:06:23] [Server thread/INFO]: AGWright joined the game
+[05:06:34] [Server thread/INFO]: <AGWright> Heyo
+[05:06:51] [Server thread/INFO]: <1153jay> saaaaaaaaaaaaaaaaaaaaaaaaaaam
+[05:06:55] [Server thread/INFO]: <1153jay> hip on the cord
+[05:07:20] [Server thread/INFO]: <eelproductions> hop on discord
+[05:08:27] [Server thread/INFO]: eelproductions lost connection: Disconnected
+[05:08:27] [Server thread/INFO]: eelproductions left the game
+[05:09:47] [User Authenticator #131/INFO]: UUID of player eelproductions is 64711451-e51b-46e7-8489-926fa3755009
+[05:09:47] [Server thread/INFO]: eelproductions[/76.231.25.94:53136] logged in with entity id 1079663 at (321.44807483109184, 78.0, 49.90879598279773)
+[05:09:47] [Server thread/INFO]: eelproductions joined the game
+[05:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[05:13:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[05:18:44] [Server thread/WARN]: 1153jay moved too quickly! 8.739721497240204,1.2531999805212024,5.333441033534584
+[05:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[05:19:34] [Server thread/WARN]: Fetching packet for removed entity bgc['Arrow'/1085469, l='ServerLevel[Homieville]', x=1140.64, y=56.05, z=574.27]
+[05:33:46] [Server thread/WARN]: AGWright moved too quickly! 17.414595985196797,3.5461703051347513,3.3802176996973117
+[05:35:42] [Server thread/WARN]: Fetching packet for removed entity bgc['Arrow'/1095627, l='ServerLevel[Homieville]', x=141.62, y=48.04, z=71.55]
+[05:37:18] [Server thread/INFO]: eelproductions has completed the challenge [Cover Me in Debris]
+[05:42:17] [Server thread/INFO]: [eelproductions: Gamerule doInsomnia is now set to: false]
+[05:49:03] [Server thread/INFO]: <eelproductions> -10848 -1968
+[05:52:19] [Server thread/INFO]: AGWright has made the advancement [Sticky Situation]
+[05:58:45] [Server thread/WARN]: AGWright moved too quickly! -12.286286815914991,-0.11471536318859421,-12.283484947876332
+[06:08:02] [Server thread/INFO]: AGWright has completed the challenge [Serious Dedication]
+[06:11:16] [Server thread/INFO]: 1153jay was slain by AGWright
+[06:11:20] [Server thread/INFO]: <eelproductions> f
+[06:24:15] [User Authenticator #132/INFO]: UUID of player blueberrysalt is 856844f9-a9ef-402f-ae87-49689a77161e
+[06:24:15] [Server thread/INFO]: blueberrysalt[/23.121.152.136:65287] logged in with entity id 1110343 at (331.1689865857556, 88.0, 193.38474474333688)
+[06:24:15] [Server thread/INFO]: blueberrysalt joined the game
+[06:24:19] [Server thread/INFO]: <eelproductions> lets goooooooooooo
+[06:26:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[06:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[06:28:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06:29:40] [Server thread/WARN]: Fetching packet for removed entity bgc['Arrow'/1113645, l='ServerLevel[Homieville]', x=321.21, y=67.05, z=77.82]
+[06:29:54] [Server thread/INFO]: eelproductions lost connection: Disconnected
+[06:29:54] [Server thread/INFO]: eelproductions left the game
+[06:29:56] [Server thread/INFO]: blueberrysalt lost connection: Disconnected
+[06:29:56] [Server thread/INFO]: blueberrysalt left the game
+[06:29:58] [Server thread/INFO]: AGWright lost connection: Disconnected
+[06:29:58] [Server thread/INFO]: AGWright left the game
+[06:30:01] [User Authenticator #133/INFO]: UUID of player eelproductions is 64711451-e51b-46e7-8489-926fa3755009
+[06:30:02] [Server thread/INFO]: eelproductions[/76.231.25.94:53469] logged in with entity id 1113740 at (320.16416282013586, 78.0, 48.6331184084456)
+[06:30:02] [Server thread/INFO]: eelproductions joined the game
+[06:30:02] [Server thread/INFO]: 1153jay lost connection: Disconnected
+[06:30:02] [Server thread/INFO]: 1153jay left the game
+[06:30:08] [Server thread/INFO]: [eelproductions: Stopping the server]
+[06:30:08] [Server thread/INFO]: Stopping server
+[06:30:08] [Server thread/INFO]: Saving players
+[06:30:08] [Server thread/INFO]: Saving worlds
+[06:30:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Homieville]'/minecraft:overworld
+[06:30:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (Homieville): All chunks are saved
+[06:30:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Homieville]'/minecraft:the_nether
+[06:30:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:30:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Homieville]'/minecraft:the_end
+[06:30:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:30:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (Homieville): All chunks are saved
+[06:30:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:30:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
